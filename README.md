@@ -33,33 +33,28 @@
 <div align="left">
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="langs" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="langs" />
 
 **Web & Apps**  
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,reactnative,firebase" alt="web stack" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,reactnative,firebase" alt="web stack" />
 
 **IoT & Embedded**  
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="embedded" />
-<img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" alt="ESP32" title="ESP32" /><br/><br/>
+<img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" alt="ESP32" title="ESP32" />
 
 **AI / ML / CV**  
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="ai/ml" />
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/roboflow.svg" alt="Roboflow" title="Roboflow" /><br/><br/>
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/roboflow.svg" alt="Roboflow" title="Roboflow" />
 
 **RF & Simulation**  
 <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mathworks.svg" alt="MATLAB" title="MATLAB" />
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg" alt="HFSS" title="HFSS" /><br/><br/>
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg" alt="HFSS" title="HFSS" />
 
 **Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="tools" />
 
 </div>
 
-<div align="center">
-
-![glow-divider](https://img.shields.io/badge/%E2%9C%A8%20%20%20%20%20%20%20%20%20%20%20%20%E2%9C%A8-00000000?style=for-the-badge)
-
-</div>
 <div align="center">
 
 <img src="https://github.com/AntoRoshanm/AntoRoshanm/assets/placeholder/arcane-line.gif" alt="arcane separator" width="760" />
@@ -93,12 +88,6 @@
     <img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-ffffff?logo=github&logoColor=111&labelColor=111&style=for-the-badge&label=%F0%9F%90%8D%20GitHub" />
   </a>
 </p>
-
-<div align="center">
-
-![soft-divider](https://img.shields.io/badge/%F0%9F%92%A5-00000000?style=for-the-badge)
-
-</div>
 
 <h3 align="center">⭐ Signature Line</h3>
 
