@@ -60,40 +60,6 @@
 ![glow-divider](https://img.shields.io/badge/%E2%9C%A8%20%20%20%20%20%20%20%20%20%20%20%20%E2%9C%A8-00000000?style=for-the-badge)
 
 </div>
-
-<h3 align="center">🚀 Major Projects</h3>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <h4>🛰️ CanSat 2025</h4>
-      <p>Long-range telemetry satellite prototype (≈5 km) with custom Yagi-Uda antenna, robust link budget, and resilient firmware stack.</p>
-      <sub>ESP32 · RF · Telemetry · Custom PCB · Ground Station UI</sub>
-    </td>
-    <td>
-      <h4>📡 5G mmWave Holographic Metasurface Antenna</h4>
-      <p>HFSS simulations optimizing beam steering & S-parameters for high-efficiency 5G links via metasurface techniques.</p>
-      <sub>HFSS · RF Design · EM Simulation · 5G</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>👤 Face Recognition System</h4>
-      <p>Real-time CV pipeline for face detection & labeling using Python, Roboflow, and OpenCV; deployable on edge devices.</p>
-      <sub>OpenCV · TensorFlow · Roboflow · Python</sub>
-    </td>
-    <td>
-      <h4>🌡️ IoT Environment Dashboard</h4>
-      <p>ESP32 sensor mesh streaming to Firebase with a React dashboard for live monitoring, alerts, and trend analytics.</p>
-      <sub>ESP32 · Firebase · React · Realtime DB</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <div align="center">
 
 <img src="https://github.com/AntoRoshanm/AntoRoshanm/assets/placeholder/arcane-line.gif" alt="arcane separator" width="760" />
@@ -117,7 +83,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="mailto:antoroshan2003@gmail.com">
+  <a href="mailto:anto2003roshan@gmail.com">
     <img alt="Email" height="28" src="https://img.shields.io/badge/Gmail-EE4B2B?logo=gmail&logoColor=white&labelColor=111&style=for-the-badge&label=%F0%9F%93%A7%20Email" />
   </a>
   <a href="https://www.linkedin.com/in/antoroshan2003" target="_blank">
