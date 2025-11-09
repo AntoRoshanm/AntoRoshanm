@@ -7,8 +7,6 @@
 
 </div>
 
-<br/>
-
 <h3 align="center">✨ About Me</h3>
 
 <p align="center">
@@ -30,40 +28,32 @@
 
 </div>
 
-<h3 align="center">⚙️ Tech Stack</h3>
+<h3 align="left">⚙️ Tech Stack</h3>
 
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="langs" />
-</p>
+<div align="left">
 
-<p align="center">
-  <b>Web & Apps</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,reactnative,firebase" alt="web stack" />
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="langs" /><br/><br/>
 
-<p align="center">
-  <b>IoT & Embedded</b><br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="embedded" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" alt="ESP32" title="ESP32" />
-</p>
+**Web & Apps**  
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,reactnative,firebase" alt="web stack" /><br/><br/>
 
-<p align="center">
-  <b>AI / ML / CV</b><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="ai/ml" />
-  <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/roboflow.svg" alt="Roboflow" title="Roboflow" />
-</p>
+**IoT & Embedded**  
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="embedded" />
+<img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" alt="ESP32" title="ESP32" /><br/><br/>
 
-<p align="center">
-  <b>RF & Simulation</b><br/>
-  <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mathworks.svg" alt="MATLAB" title="MATLAB" />
-  <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg" alt="HFSS" title="HFSS" />
-</p>
+**AI / ML / CV**  
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="ai/ml" />
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/roboflow.svg" alt="Roboflow" title="Roboflow" /><br/><br/>
 
-<p align="center">
-  <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="tools" />
-</p>
+**RF & Simulation**  
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mathworks.svg" alt="MATLAB" title="MATLAB" />
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg" alt="HFSS" title="HFSS" /><br/><br/>
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="tools" />
+
+</div>
 
 <div align="center">
 
@@ -117,8 +107,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoRoshanm&layout=compact&theme=radical&hide_border=true" alt="top langs" />
   <img height="160" src="https://streak-stats.demolab.com?user=AntoRoshanm&theme=radical&hide_border=true" alt="streak" />
 </div>
-
-
 
 <div align="center">
 
