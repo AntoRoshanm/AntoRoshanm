@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="langs" />
 
 **Web & Apps**  
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,reactnative,firebase" alt="web stack" />
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,firebase" alt="web stack" />
 
 **IoT & Embedded**  
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="embedded" />
@@ -47,7 +47,7 @@
 <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/roboflow.svg" alt="Roboflow" title="Roboflow" />
 
 **RF & Simulation**  
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mathworks.svg" alt="MATLAB" title="MATLAB" />
+<img src="https://skillicons.dev/icons?i=matlab" alt="web stack" />
 <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansys.svg" alt="HFSS" title="HFSS" />
 
 **Tools**  
