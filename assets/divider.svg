@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="section divider">
+<defs><linearGradient id="g" x1="0" x2="1200" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#3DE7FF" stop-opacity="0"/><stop offset=".3" stop-color="#3DE7FF" stop-opacity=".6"/>
+<stop offset=".5" stop-color="#8B6CFF" stop-opacity=".9"/><stop offset=".7" stop-color="#FF4FD8" stop-opacity=".6"/>
+<stop offset="1" stop-color="#FF4FD8" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 12 H570 L570 12 L571 11.89 L572 11.57 L573 11.11 L574 10.62 L575 10.19 L576 9.94 L577 9.97 L578 10.33 L579 11.02 L580 12 L581 13.18 L582 14.42 L583 15.56 L584 16.45 L585 16.95 L586 16.95 L587 16.4 L588 15.33 L589 13.81 L590 12 L591 10.07 L592 8.24 L593 6.71 L594 5.67 L595 5.24 L596 5.49 L597 6.41 L598 7.91 L599 9.84 L600 12 L601 14.16 L602 16.09 L603 17.59 L604 18.51 L605 18.76 L606 18.33 L607 17.29 L608 15.76 L609 13.93 L610 12 L611 10.19 L612 8.67 L613 7.6 L614 7.05 L615 7.05 L616 7.55 L617 8.44 L618 9.58 L619 10.82 L620 12 L621 12.98 L622 13.67 L623 14.03 L624 14.06 L625 13.81 L626 13.38 L627 12.89 L628 12.43 L629 12.11 L630 12 H1200" fill="none" stroke="url(#g)" stroke-width="1.6" stroke-linejoin="round"/>
+</svg>

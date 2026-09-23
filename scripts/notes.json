@@ -1,0 +1,24 @@
+{
+  "exclude": ["THoughts_app"],
+  "describe": {
+    "terminal_ai_agent": "Offline-first Windows agent: local Qwen via Ollama, runs real system tools and verifies results",
+    "Ai_Agent": "LangGraph agent with MCP tool servers and a local Ollama model; UI shows every reasoning and tool step",
+    "Billing-software": "Desktop billing app: Tkinter/ttkbootstrap, SQLite with Firebase sync, barcode generation",
+    "Wearable-Silent-Speech-Recognition-Device-for-Non-Verbal-Communication-": "ESP32 wearable: 4-channel EMG/throat sensing, on-device Random Forest, voice playback",
+    "DEVELOPING-A-PORTABLE-ECG-MONITRING-SYSTEN-USING-AN-ESP32": "ESP32 + MAX3010x heart-rate sensing streamed to Firebase",
+    "Iot-based-food-spoilage-detection-using-node-mcu": "NodeMCU (ESP8266) + DHT11 food-storage monitoring with Firebase",
+    "IoT-Enabled-Smart-Streetlight-with-Adaptive-Brightness": "ESP8266 streetlight: LDR + PIR adaptive brightness over MQTT",
+    "SMART-GPS-TRACKER-USING-ARDUINO": "Arduino GPS tracker reporting location over a GSM module",
+    "TWO-WAY-DENSITY-BASED-TRAFFIC-LIGHT-SYSTEM": "Arduino traffic controller timing lights by lane density",
+    "face-recognition": "Flask web app: OpenCV Haar detection + KNN face classification",
+    "Arcface_face_recognition": "ArcFace-style face embeddings in PyTorch, matched by cosine similarity",
+    "Holographic-Metasurface-Design-Analysis-and-Simulation": "Ansys HFSS model of a 5 mm spiral metasurface element",
+    "MARTAHO-Multi-Layer-Adaptive-Routing-with-TSP-ACO-Hybrid-Optimization-in-5G-Networks": "5G routing study (TSP + ant-colony hybrid) with ML evaluation notebooks",
+    "PREDICTIVE-MAINTENANCE-SYSTEM-FOR-INDUSTRIAL-EQUIPMENTS": "Equipment failure prediction from sensor data with XGBoost",
+    "Neural-Style-Transfer-Using-Pre-trained-VGG19-Network": "Neural style transfer on VGG19 features in PyTorch",
+    "vr_tryon": "Virtual try-on: MediaPipe pose/face mesh + VGG16 feature similarity, Flask",
+    "ExamWebsite": "Exam management web app: React, Express, MongoDB, Firebase",
+    "ChatWorld": "React Native chat app on Firebase auth, database and storage",
+    "MusicPro": "React Native music player with Firebase auth"
+  }
+}
